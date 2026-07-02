@@ -1,0 +1,7 @@
+<bean id="student"
+      class="Student">
+
+    <property name="name"
+              value="Gouri"/>
+
+</bean>

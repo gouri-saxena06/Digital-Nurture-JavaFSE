@@ -1,0 +1,6 @@
+<bean id="employee"
+      class="Employee">
+
+    <constructor-arg value="Gouri"/>
+
+</bean>
