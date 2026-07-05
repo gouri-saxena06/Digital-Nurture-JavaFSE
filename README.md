@@ -125,6 +125,6 @@ This repository contains the hands-on exercises completed as part of the Cogniza
 
 # Author
 
-**Gouri Saxena**  
+**Gouri Saxena**
 B.Tech CSE  
 VIT Bhopal University
