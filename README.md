@@ -121,6 +121,32 @@ This repository contains the hands-on exercises completed as part of the Cogniza
 - Maven
 - Git & GitHub
 
+# Week 3
+
+## Spring Data JPA
+- JPA Quick Example
+- Country Service
+- Query Methods
+- ORM Mapping
+- HQL and Native Query
+
+## Spring REST
+- Hello World REST API
+- Country REST Service
+- JWT Authentication
+
+## Microservices
+- Account Service
+- Loan Service
+- Eureka Discovery Server
+
+## React
+- HOL1
+- HOL2
+- HOL3
+- HOL4
+- HOL5
+
 ---
 
 # Author
